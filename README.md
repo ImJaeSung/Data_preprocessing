@@ -1,5 +1,5 @@
 # Data_preprocessing
-2022년 11월부터 2023년 6월까지 진행된 BigDataAnanlysis(BDA) 학회 데이터 분석 기초반 공부 내용입니다.
+2022년 11월부터 2023년 6월까지 진행된 Big Data Ananlysis Association(BDA) 학회 데이터 분석 기초반 공부 내용입니다.
 
 ### BDA란?
 
